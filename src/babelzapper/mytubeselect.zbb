@@ -1,0 +1,4 @@
+DOWN; $KEY_DOWN
+UP; $KEY_UP
+OK; $KEY_OK; LOAD mytubeplay
+EXIT; $KEY_RED

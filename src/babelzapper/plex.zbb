@@ -1,0 +1,11 @@
+PlayPause; $KEY_PLAY
+TV; $KEY_TV; LOAD zapp
+DOWN; $KEY_DOWN
+UP; $KEY_UP
+RIGHT; $KEY_RIGHT
+LEFT; $KEY_LEFT
+OK; $KEY_OK; GOTO 0
+quickjump; LOAD quickjump
+audio; $KEY_AUDIO
+audiocontroll; LOAD audioplex
+<==; $KEY_EXIT; $KEY_EXIT; $KEY_EXIT; LOAD

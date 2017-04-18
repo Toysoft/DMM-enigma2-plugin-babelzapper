@@ -1,0 +1,3 @@
+.; $KEY_1; $KEY_1; $KEY_1; LOAD letters
+-; $KEY_1; $KEY_1; $KEY_1; $KEY_1; $KEY_1; $KEY_1; LOAD letters
+---; RUN letters

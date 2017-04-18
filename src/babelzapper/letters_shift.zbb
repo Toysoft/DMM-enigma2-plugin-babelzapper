@@ -1,0 +1,8 @@
+E I A U O; LOAD letters_1_eiauo_shift
+N S R T D; LOAD letters_2_nsrtd_shift
+H L C G M; LOAD letters_3_hlcgm_shift
+B W F K Z; LOAD letters_4_bwfkz_shift
+P V J Y X Q; LOAD letters_5_pvjyxq_shift
+umlaute; LOAD letters_6_uml_shift
+capslock; LOAD letters_capslock
+---; RUN letters

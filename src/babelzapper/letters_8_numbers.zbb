@@ -1,0 +1,12 @@
+manynum; LOAD letters_8_manynum
+0; $KEY_0; LOAD letters
+1; $KEY_1; $KEY_1; LOAD letters
+2; $KEY_2; $KEY_2; $KEY_2; $KEY_2; $KEY_2; LOAD letters
+3; $KEY_3; $KEY_3; $KEY_3; $KEY_3; LOAD letters
+4; $KEY_4; $KEY_4; $KEY_4; $KEY_4; LOAD letters
+5; $KEY_5; $KEY_5; $KEY_5; $KEY_5; LOAD letters
+6; $KEY_6; $KEY_6; $KEY_6; $KEY_6; $KEY_6; LOAD letters
+7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; LOAD letters
+8; $KEY_8; $KEY_8; $KEY_8; $KEY_8; $KEY_8; LOAD letters
+9; $KEY_9; $KEY_9; $KEY_9; $KEY_9; $KEY_9; LOAD letters
+---; RUN letters

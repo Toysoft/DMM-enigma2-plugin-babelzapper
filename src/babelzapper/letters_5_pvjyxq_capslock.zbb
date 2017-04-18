@@ -1,0 +1,7 @@
+P; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; LOAD letters_capslock
+V; $KEY_8; $KEY_8; $KEY_8; $KEY_8; $KEY_8; $KEY_8; $KEY_8; $KEY_8; LOAD letters_capslock
+J; $KEY_5; $KEY_5; $KEY_5; $KEY_5; $KEY_5; LOAD letters_capslock
+Y; $KEY_9; $KEY_9; $KEY_9; $KEY_9; $KEY_9; $KEY_9; $KEY_9; $KEY_9; LOAD letters_capslock
+X; $KEY_9; $KEY_9; $KEY_9; $KEY_9; $KEY_9; $KEY_9; $KEY_9; LOAD letters_capslock
+Q; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; LOAD letters_capslock
+---; RUN letters_capslock

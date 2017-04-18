@@ -1,0 +1,7 @@
+zapp; LOAD zapp
+epg; $KEY_RED; LOAD epg
+menu; $KEY_MENU; LOAD menu
+pvr; $KEY_VIDEO; LOAD pvr
+mytube; $KEY_YELLOW_LONG; LOAD mytube
+dreamplex; $KEY_GREEN_LONG; $KEY_RIGHT; $KEY_RIGHT; $KEY_DOWN; $KEY_DOWN; $KEY_DOWN; $KEY_DOWN; LOAD plex
+STANDBY; $KEY_POWER

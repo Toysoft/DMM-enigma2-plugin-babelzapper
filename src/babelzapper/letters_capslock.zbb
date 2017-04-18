@@ -1,0 +1,7 @@
+E I A U O; LOAD letters_1_eiauo_capslock
+N S R T D; LOAD letters_2_nsrtd_capslock
+H L C G M; LOAD letters_3_hlcgm_capslock
+B W F K Z; LOAD letters_4_bwfkz_capslock
+P V J Y X Q; LOAD letters_5_pvjyxq_capslock
+umlaute; LOAD letters_6_uml_capslock
+caps off; LOAD letters

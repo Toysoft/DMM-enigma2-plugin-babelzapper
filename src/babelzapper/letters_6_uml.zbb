@@ -1,0 +1,5 @@
+SZ; $KEY_7; $KEY_7; $KEY_7; $KEY_7; $KEY_7; LOAD letters
+AE; $KEY_2; $KEY_2; $KEY_2; $KEY_2; LOAD letters
+UE; $KEY_8; $KEY_8; $KEY_8; $KEY_8; LOAD letters
+OE; $KEY_6; $KEY_6; $KEY_6; $KEY_6; LOAD letters
+---; RUN letters

@@ -1,0 +1,6 @@
+E; $KEY_3; $KEY_3; LOAD letters
+I; $KEY_4; $KEY_4; $KEY_4; LOAD letters
+A; $KEY_2; LOAD letters
+U; $KEY_8; $KEY_8; LOAD letters
+O; $KEY_6; $KEY_6; $KEY_6; LOAD letters
+---; RUN letters

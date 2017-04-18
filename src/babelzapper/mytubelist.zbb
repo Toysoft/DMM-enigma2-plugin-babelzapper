@@ -1,0 +1,7 @@
+DOWN; $KEY_DOWN
+UP; $KEY_UP
+OK; $KEY_OK; LOAD mytubeplay
+SUCHEN; $KEY_CHANNELUP; LOAD mytube
+EXIT; $KEY_EXIT; $KEY_OK; LOAD zapp
+VERLAUF; $KEY_YELLOW; LOAD mytubeselect
+FEEDS; $KEY_GREEN; LOAD mytubeselect
